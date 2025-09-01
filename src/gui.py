@@ -9,7 +9,7 @@ from tkinter.messagebox import showinfo
 from tkinter import simpledialog as smpd
 import os
 
-from .logic import Funkcije
+from logic import Funkcije
 
 class Buttons:
     
